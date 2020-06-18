@@ -72,8 +72,8 @@ end
  
 
     def self.browse_breeds
-        all_the_breeds = Breed.all
-        browse_breeds = PROMPT.select("Choose a dog breed to learn about:", %W(#{all_the_breeds}))
+
+    browse_breeds = PROMPT.select("Choose a dog breed to learn about:", %W(#{all_the_breeds}))
 
         
     end
