@@ -17,7 +17,7 @@ For your final project, we'll be building a Command Line database application.
 
   **Resource:** [Easy Access APIs](https://github.com/learn-co-curriculum/easy-access-apis)
 
-### Option Two - Command Line CRUD Appd
+### Option Two - Command Line CRUD App
 
 1. Access a Sqlite3 Database using ActiveRecord.
 2. You should have a minimum of three models.
