@@ -10,5 +10,5 @@ The user can see their favorites to remind them which dog breeds they saved
 3. Follow the prompts to make your selections and play around with this simple app
 4. To exit at any time, type "exit"
 
-
+Github Repo: https://github.com/jodiCroft/DogAppMod1Project
 
