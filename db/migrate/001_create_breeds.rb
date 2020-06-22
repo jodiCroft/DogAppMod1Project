@@ -4,7 +4,6 @@ class CreateBreeds < ActiveRecord::Migration[6.0]
       t.string :name
       t.string :temperament
       t.string :life_span
-
+    end
   end
-end
 end

@@ -3,7 +3,6 @@ class CreateFavorites < ActiveRecord::Migration[6.0]
     create_table :favorites do |t|
       t.integer :user_id
       t.integer :breed_id
-
   end
  end
 end
